@@ -12,3 +12,6 @@ src/misc.c
 src/parse.c
 
 src/scanner.c
+
+To configure:
+./configure CFLAGS="-fopenmp" CXXFLAGS="-fopenmp"
